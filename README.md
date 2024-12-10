@@ -1,2 +1,2 @@
 # repository class example
- my-first-repo
+ my-first-repo ciao
